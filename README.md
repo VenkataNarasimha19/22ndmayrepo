@@ -1,4 +1,4 @@
 # 22ndmayrepo
 22ndmayrepo
-hi
-hello dear
+
+Practice on 10th June 2023
